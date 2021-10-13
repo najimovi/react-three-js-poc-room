@@ -1,0 +1,33 @@
+@import url("https://rsms.me/inter/inter.css");
+
+body {
+  background-color: #555;
+  margin: 0px;
+  font-family: "Inter var", sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+#root {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  outline: none;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#footer {
+  position: absolute;
+  left: 3rem;
+  bottom: 3rem;
+  color: white;
+}
+* {
+  box-sizing: border-box;
+}
