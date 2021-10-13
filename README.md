@@ -1,6 +1,6 @@
 # React Three.js Fiber Demo Project: Room
 
-Working demo in https://oxyf.github.io/react-three-fiber-demo/.
+Working demo in https://najimovi.github.io/react-three-fiber-demo/.
 
 Very simple react app demo using:
 
