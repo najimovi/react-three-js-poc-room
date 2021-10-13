@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-three-fiber-demo/static/css/main.80583a33.chunk.css",
+    "main.js": "/react-three-fiber-demo/static/js/main.3b7b5f66.chunk.js",
+    "main.js.map": "/react-three-fiber-demo/static/js/main.3b7b5f66.chunk.js.map",
+    "runtime~main.js": "/react-three-fiber-demo/static/js/runtime~main.1344da34.js",
+    "runtime~main.js.map": "/react-three-fiber-demo/static/js/runtime~main.1344da34.js.map",
+    "static/js/2.e2f4a503.chunk.js": "/react-three-fiber-demo/static/js/2.e2f4a503.chunk.js",
+    "static/js/2.e2f4a503.chunk.js.map": "/react-three-fiber-demo/static/js/2.e2f4a503.chunk.js.map",
+    "index.html": "/react-three-fiber-demo/index.html",
+    "precache-manifest.de7c58134a355295f66f4d1b0e70ad40.js": "/react-three-fiber-demo/precache-manifest.de7c58134a355295f66f4d1b0e70ad40.js",
+    "service-worker.js": "/react-three-fiber-demo/service-worker.js",
+    "static/css/main.80583a33.chunk.css.map": "/react-three-fiber-demo/static/css/main.80583a33.chunk.css.map"
+  }
+}
